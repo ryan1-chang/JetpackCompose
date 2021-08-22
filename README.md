@@ -1,3 +1,3 @@
 # JetpackCompose
 
-<img src="preview.jpg" width="600" />
+<img src="preview.jpg" width="800" />
